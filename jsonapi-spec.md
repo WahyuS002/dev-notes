@@ -1,10 +1,6 @@
----
-title: JSON:API
-topic: API Specification
-tags: [jsonapi, api, spec]
----
-
 # JSON:API Notes
+
+Official docs: https://jsonapi.org/format
 
 ## 1. What is JSON:API?
 
