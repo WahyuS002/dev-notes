@@ -66,7 +66,7 @@ A response can also include these optional sections:
 
 **Note:** `included` can only be present when `data` exists - it doesn't make sense to have related resources without main data.
 
-#### 2.3. The `links` Object
+#### 2.2.1 The `links` Object
 
 The top-level `links` object contains URLs related to the entire response. Common links include:
 
