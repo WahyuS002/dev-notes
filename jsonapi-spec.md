@@ -1,6 +1,6 @@
 # JSON:API Notes
 
-Official docs: https://jsonapi.org/format
+Official docs: https://jsonapi.org
 
 ## 1. What is JSON:API?
 
