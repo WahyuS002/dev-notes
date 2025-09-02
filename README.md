@@ -1,3 +1,3 @@
 # DEV NOTES
 
-Personal notes from my development learning journey, written in Markdown.
+A collection of personal notes from my dev journey, all in Markdown.
